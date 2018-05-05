@@ -1,0 +1,6 @@
+*.[oa]
+*~
+/target/
+build/
+doc/*.txt
+doc/**/*.pdf
